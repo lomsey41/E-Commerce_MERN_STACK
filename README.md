@@ -123,4 +123,4 @@ Documentation
 For detailed documentation on the project setup, configuration, and usage, please refer to the Documentation section.
 Live Demo Preview
 
-Access the live demo of the app at http://localhost:3000.
+Access the live demo of the app at http://localhost:2000.
