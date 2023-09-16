@@ -1,5 +1,5 @@
 {
-  "name": "Hayroo",
+  "name": "E-Commerce_MERN_STACK",
   "version": "1.0.0",
   "description": "A E-commerce website.",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce"
+    "url": "https://github.com/lomsey41/MERN_Stack_Project_Hayroo_Ecommerce"
   },
-  "author": "Hasan | https://hasan-py.github.io",
-  "license": "ISC",
+  "author": "Salome | https://lomsey41.github.io",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce/issues"
+    "url": "https://github.com/lomsey41/E-Commerce_MERN_STACK/issues"
   },
-  "homepage": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce#readme",
+  "homepage": "https://github.com/hasan-py/E-Commerce_MERN_STACK#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "braintree": "^3.0.0",
