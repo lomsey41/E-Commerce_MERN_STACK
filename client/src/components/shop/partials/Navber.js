@@ -47,9 +47,36 @@ const Navber = (props) => {
             </span>
             <span
               className="hover:bg-gray-200 px-4 py-3 rounded-lg font-light tracking-widest hover:text-gray-800 cursor-pointer"
-              onClick={(e) => history.push("/contact-us")}
+              onClick={(e) => window.open("https://twitter.com/lomsey41", "_blank")}
+            >
+            Twitter
+            </span>
             >
               Contact us
+	    <span
+            className="hover:bg-gray-200 px-4 py-3 rounded-lg font-light tracking-widest hover:text-gray-800 cursor-pointer"
+            onClick={(e) => sendEmail(sallybassey19@gmail.com)}
+            >
+            Email
+            </span>
+            <span
+            className="hover:bg-gray-200 px-4 py-3 rounded-lg font-light tracking-widest hover:text-gray-800 cursor-pointer"
+            onClick={(e) => openLinkedInProfile( http://www.linkedin.com/in/salome-bassey)}
+            >
+            LinkedIn
+            </span>
+            <span
+            className="hover:bg-gray-200 px-4 py-3 rounded-lg font-light tracking-widest hover:text-gray-800 cursor-pointer"
+            >
+            Address: 3, Dede Close, Port Harcourt, Nigeria
+            </span>
+            <span
+            className="hover:bg-gray-200 px-4 py-3 rounded-lg font-light tracking-widest hover:text-gray-800 cursor-pointer"
+            onClick={(e) => makePhoneCall()}
+            >
+            Phone:  (234) 8030484399
+            </span>
+
             </span>
           </div>
           <div className="col-span-2 lg:hidden flex justify-items-stretch	 items-center">
