@@ -55,7 +55,7 @@ const Navber = (props) => {
               Contact us
 	    <span
             className="hover:bg-gray-200 px-4 py-3 rounded-lg font-light tracking-widest hover:text-gray-800 cursor-pointer"
-            onClick={(e) => sendEmail(sallybassey19@gmail.com)}
+            onClick={(e) => sendEmail('sallybassey19@gmail.com')}
             >
             Email
             </span>
